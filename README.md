@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hola, soy Samuel Ibañez
 
-<!--
-**s4mooel/s4mooel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería de Sistemas  
+🎧 Curador musical enfocado en el análisis de datos y visualización interactiva.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Habilidades
+- Análisis y visualización de datos (Tableau, Excel, Python, R, SQL)
+- Desarrollo web básico (HTML, CSS, JavaScript)
+- Control de versiones con Git y GitHub
+
+---
+
+
+### 🌐 Conecta conmigo
+- [LinkedIn](https://www.linkedin.com/in/samuel-esteban-ibañez-zarate-7a7269376)  
+- [Tableau Public](https://public.tableau.com/app/profile/samuel.iba.ez/vizzes)  
+- [Instagram](https://instagram.com/samoolp)
+
+---
+
