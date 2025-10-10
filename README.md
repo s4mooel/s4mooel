@@ -1,7 +1,6 @@
 # 👋 Hola, soy Samuel Ibañez
 
-🎓 Estudiante de Ingeniería de Sistemas  
-🎧 Curador musical enfocado en el análisis de datos y visualización interactiva.  
+🎓 Estudiante de Ingeniería de Sistemasenfocado en el análisis de datos y visualización interactiva.  
 
 ---
 
