@@ -1,6 +1,6 @@
 # 👋 Hola, soy Samuel Ibañez
 
-🎓 Estudiante de Ingeniería de Sistemas enfocado en el análisis de datos, desarrollo web
+🎓 Estudiante de Ingeniería de Sistemas enfocado en el análisis de datos y desarrollo web
 
 ---
 
