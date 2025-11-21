@@ -1,6 +1,7 @@
 # 👋 Hola, soy Samuel Ibañez
 
 Estudiante de Ingeniería de Sistemas | Análisis de Datos | Desarrollo Web
+
 Soy un estudiante apasionado por transformar datos en información útil y crear soluciones web simples pero eficientes. Me gusta aprender constantemente nuevas herramientas y poner en práctica mis conocimientos en proyectos reales.
 
 ---
