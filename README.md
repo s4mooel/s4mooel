@@ -1,27 +1,16 @@
-#  Hola, soy Samuel Ibañez
+# 👋 Hola, soy Samuel Ibañez
 
- Estudiante de Ingeniería de Sistemas enfocado en el análisis de datos y desarrollo web
+Estudiante de Ingeniería de Sistemas | Análisis de Datos | Desarrollo Web
+Soy un estudiante apasionado por transformar datos en información útil y crear soluciones web simples pero eficientes. Me gusta aprender constantemente nuevas herramientas y poner en práctica mis conocimientos en proyectos reales.
 
 ---
 
-###  Habilidades
+### 🚀 Habilidades
 - Análisis y visualización de datos (Tableau, Excel, Python, R, SQL)
 - Desarrollo web básico (HTML, CSS, JavaScript)
 - Control de versiones con Git y GitHub
 
 ---
-
-
-###  Conecta conmigo
-- [LinkedIn](https://www.linkedin.com/in/samuel-esteban-ibañez-zarate-7a7269376)  
-
-
----
-
----
-
-### 📊 Estadísticas de GitHub
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=s4mooel&show_icons=true&theme=tokyonight)
 
 ### 💻 Lenguajes más usados
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s4mooel&layout=compact&theme=tokyonight)
