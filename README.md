@@ -1,4 +1,4 @@
-# 👋 Hola, soy Samuel Ibañez
+# Hola, soy Samuel Ibañez
 
 Estudiante de Ingeniería de Sistemas | Análisis de Datos | Desarrollo Web
 
@@ -7,7 +7,7 @@ Soy un estudiante apasionado por transformar datos en información útil y crear
 ---
 
 ### 🚀 Habilidades
-- Análisis y visualización de datos (Tableau, Excel, Python, R, SQL)
+- Análisis y visualización de datos (Excel, Python, R, SQL)
 - Desarrollo web básico (HTML, CSS, JavaScript)
 - Control de versiones con Git y GitHub
 
