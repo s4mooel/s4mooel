@@ -21,15 +21,6 @@ Ingeniero de Sistemas con intereses en análisis de datos, desarrollo web, UI/UX
 **DevOps & Herramientas**
 `Docker` · `Git` · `GitHub` · `Google Cloud`
 
----
-
-### 🚀 Proyectos destacados
-
-**[Pulse Commerce](https://github.com/s4mooel/pulse-commerce)** — `Next.js 14` `TypeScript` `React` `Tailwind`
-Plataforma integral (API-first) para gestionar pedidos, inventario y clientes, con su propio sistema de diseño (tokens, UI kits).
-
-**[Weather Report App](https://github.com/s4mooel/proyecto-weather-report)** — `JavaScript` `HTML` `CSS` `OpenWeather API`
-Aplicación web que muestra el clima actual y el pronóstico de los próximos días.
 
 ---
 
