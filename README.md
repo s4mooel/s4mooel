@@ -5,7 +5,7 @@
 
 Ingeniero de Sistemas con experiencia práctica en desarrollo de aplicaciones empresariales, automatización de procesos ETL, IA Generativa y análisis de datos para la toma de decisiones. Diseño y automatizo flujos de trabajo (ETL, pipelines y scripts) para que los procesos corran solos, y construyo interfaces y visualizaciones que hacen los datos fáciles de entender.
 
-🔗 **[Ver mi página personal](https://pagina-personals4m0l.vercel.app)**
+🔗 **[Ver mi página personal](https://pagina-personal-s4m0l.vercel.app)**
 
 ---
 
@@ -88,6 +88,6 @@ Español (Nativo) · Inglés (Avanzado B2)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s4m0l/)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:zaratesamu99@gmail.com)
-[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=flat&logo=vercel&logoColor=white)](https://pagina-personals4m0l.vercel.app)
+[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=flat&logo=vercel&logoColor=white)](https://pagina-personal-s4m0l.vercel.app)
 
 📱 +57 321 278 3040
